@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rubik:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rubik:ital,wght@1,500&family=Source+Serif+Pro:wght@300&display=swap');
+
+body {
+    background: url(https://www.solofondos.com/wp-content/uploads/2016/01/Fondos-de-pantalla-4k-coches.jpg) #00d repeat-y fixed;
+    
+}
+
+h2 {
+    color: beige;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: justify;
+}
+
+img {
+    height: 250px;
+    width: 350px;
+    border-radius: 10px;
+ 
+}
+
+p {
+    color: bisque;
+    font-family: 'Source Serif Pro', sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    text-align: justify;
+}
+ ul {
+     color: beige;
+     font-family:'Source Serif Pro' ,sans-serif;
+     font-size: 20px;
+     font-weight: 700;
+     text-align: justify;
+ }
+
+ input{
+    height: 25px;
+    width: 220px;
+    margin: 10 auto;
+    background: white;
+    color: white;
+    font-size: 10px;
+    font-weight: bold;
+    font-family:'Source Serif Pro' , sans-serif;
+    text-align: justify;
+ }
+
+ label {
+     color: bisque;
+     font-family: 'Source Serif Pro',sans-serif;
+     font-size: 15px;
+     font-weight: normal;
+     text-align: justify;
+
+ }
+ form{
+     text-align: justify;
+ }
+
+ div{
+     color: white;
+     text-align: justify;
+    text-size-adjust: 50px;
+ }
+ footer {
+text-align-last: center;
+text-decoration-style: solid;
+ }
+
+ #Numero {
+ color: beige;
+ }
